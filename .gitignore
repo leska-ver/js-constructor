@@ -1,0 +1,18 @@
+# Зависимости
+node_modules/
+npm-debug.log*
+
+# Parcel 
+.cache/
+dist/
+.parcel-cache/
+
+# Environment variables
+.env
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
